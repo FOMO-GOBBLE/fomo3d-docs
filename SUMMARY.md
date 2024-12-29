@@ -1,17 +1,23 @@
-# Table of contents
+# Summary
 
-* [Welcome](README.md)
-
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+- [Introduction](README.md)
+- [Getting Started](getting-started/introduction-to-fomo3d.md)
+  - [How to Use FOMO3D](getting-started/how-to-use-fomo3d.md)
+- [FOMO3D Launchpad](fomo3d-launchpad/overview.md)
+  - [Launching a Project](fomo3d-launchpad/launching-a-project.md)
+  - [Supporting Projects](fomo3d-launchpad/supporting-projects.md)
+- [FOMO3D AMM](fomo3d-amm/understanding-the-amm.md)
+  - [Liquidity Provision](fomo3d-amm/liquidity-provision.md)
+  - [Trading on FOMO3D](fomo3d-amm/trading-on-fomo3d.md)
+- [Security and Audits](security-and-audits/security-measures.md)
+  - [F8M3 Security Review](security-and-audits/audit-reports/f8m3-security-review.md)
+- [Technical Details](technical-details/smart-contract-architecture.md)
+  - [CFMM Implementation](technical-details/cfmm-implementation.md)
+  - [Fee Structure](technical-details/fee-structure.md)
+- [Developer Docs](developer-docs/api-reference.md)
+  - [SDK Usage](developer-docs/sdk-usage.md)
+- [FAQs](faqs/faqs.md)
+- [Resources](resources/glossary.md)
+  - [External Links](resources/external-links.md)
+- [Contact and Support](contact-and-support/contact-and-support.md)
+- [Changelog](changelog/changelog.md)
