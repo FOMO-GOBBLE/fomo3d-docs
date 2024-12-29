@@ -20,4 +20,3 @@
 * [Resources](glossary/README.md)
   * [External Links](glossary/external-links.md)
 * [Contact and Support](contact-and-support.md)
-* [Changelog](changelog.md)
