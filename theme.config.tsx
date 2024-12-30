@@ -6,17 +6,35 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/johnforfar/fomo3d-docs/tree/nextra',
   },
-  chat: {
-    link: 'https://discord.com',
-  },
   docsRepositoryBase: 'https://github.com/johnforfar/fomo3d-docs/tree/nextra',
   darkMode: true,
   sidebar: {
-    defaultMenuCollapseLevel: 1
+    defaultMenuCollapseLevel: 1,
+    toggleButton: true
+  },
+  navbar: {
+    extraContent: (
+      <div className="flex items-center gap-4">
+        <a 
+          href="https://t.me/fomo3dGobbler" 
+          target="_blank" 
+          rel="noopener noreferrer"
+        >
+          Telegram
+        </a>
+        <a 
+          href="https://x.com/solanaDOTfun" 
+          target="_blank" 
+          rel="noopener noreferrer"
+        >
+          Twitter
+        </a>
+      </div>
+    )
   },
   footer: {
-    component: <footer>FOMO3D Docs</footer>
-  },
+    content: 'FOMO3D Docs'
+  }
 }
 
 export default config
