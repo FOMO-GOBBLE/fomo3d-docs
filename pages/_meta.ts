@@ -1,34 +1,55 @@
 // pages/_meta.ts
 export default {
-  index: "Introduction",
+  index: {
+    title: "Introduction",
+  },
+  "api-reference": {
+    title: "API Reference",
+    type: "folder",
+    index: "fomo3d-api"
+  },
   "getting-started": {
     title: "Getting Started",
-    type: "folder"
+    type: "folder",
+    index: "introduction-to-fomo3d"
+  },
+  "introduction-to-fomo3d": {
+    title: "Introduction to FOMO3D",
+    type: "folder",
+    index: "intro-to-fomo3d"
   },
   "fomo3d-launchpad": {
     title: "FOMO3D Launchpad",
-    type: "folder"
+    type: "folder",
+    index: "fomo3d-overview"
   },
   "fomo3d-amm": {
     title: "FOMO3D AMM",
-    type: "folder"
+    type: "folder",
+    index: "understanding-the-amm"
   },
   "security-and-audits": {
     title: "Security and Audits",
-    type: "folder"
+    type: "folder",
+    index: "security-measures"
   },
   "technical-details": {
     title: "Technical Details",
-    type: "folder"
+    type: "folder",
+    index: "smart-contract-architecture"
   },
   "developer-docs": {
     title: "Developer Docs",
-    type: "folder"
+    type: "folder",
+    index: "api-reference"
   },
-  "resources": {
+  resources: {
     title: "Resources",
-    type: "folder"
+    type: "folder",
+    index: "glossary"
   },
-  "faqs": "FAQs",
-  "contact-and-support": "Contact & Support"
-} as const
+  "contact-and-support": {
+    title: "Contact & Support",
+    type: "page"
+  }
+} as const;

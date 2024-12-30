@@ -34,7 +34,9 @@ const config: DocsThemeConfig = {
   },
   footer: {
     content: 'FOMO3D Docs'
-  }
+  },
+  // Setting navigation to false to disable any default navigation items
+  navigation: false
 }
 
 export default config
