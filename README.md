@@ -1,23 +1,13 @@
----
-icon: hand-wave
----
+# FOMO3D Docs
 
-# Introduction
+Based off the open source doc library for NextJS called [Nextra](https://nextra.site).
 
-Welcome to the official documentation for FOMO3D, a groundbreaking platform on the Solana blockchain that combines the functionalities of a DEX AMM with a memecoin launchpad. Here, you will find all the information you need to understand, use, and interact with FOMO3D.
+## Local Development
 
-## Overview
+First, run `bun i` to install the dependencies.
 
-FOMO3D, known as "Gobbler", is designed to revolutionize liquidity provisioning, trading, and memecoin launches through innovative mechanisms like a unique constant product curve with virtual liquidity and a flat-rate fee system.
+Then, run `bun dev` to start the development server and visit localhost:3000.
 
-### Quick Links
+## License
 
-* [Getting Started](introduction-to-fomo3d/)
-* [FOMO3D AMM](understanding-the-amm/)
-* [FOMO3D Launchpad](overview/)
-* [Security and Audits](security-measures/)
-
-Join the FOMO3D community:
-
-* [Website](https://solana.fun)
-* [Twitter](https://x.com/solanaDOTfun)
+This project is licensed under the MIT License.
