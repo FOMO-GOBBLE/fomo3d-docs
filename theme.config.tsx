@@ -1,11 +1,12 @@
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
+import { FaTelegramPlane, FaTwitter } from 'react-icons/fa';
 
 const config: DocsThemeConfig = {
   logo: <span>FOMO3D Docs</span>,
-  project: {
+  /*project: {
     link: 'https://github.com/johnforfar/fomo3d-docs/tree/nextra',
-  },
+  },*/
   docsRepositoryBase: 'https://github.com/johnforfar/fomo3d-docs/tree/nextra',
   darkMode: true,
   sidebar: {
@@ -14,22 +15,31 @@ const config: DocsThemeConfig = {
   },
   navbar: {
     extraContent: (
-      <div className="flex items-center gap-4">
+      <>
         <a 
           href="https://t.me/fomo3dGobbler" 
           target="_blank" 
           rel="noopener noreferrer"
+          style={{ 
+            display: 'inline-block',
+            marginRight: '16px',
+            verticalAlign: 'middle'
+          }}
         >
-          Telegram
+          <FaTelegramPlane size={24} />
         </a>
         <a 
           href="https://x.com/solanaDOTfun" 
           target="_blank" 
           rel="noopener noreferrer"
+          style={{ 
+            display: 'inline-block',
+            verticalAlign: 'middle'
+          }}
         >
-          Twitter
+          <FaTwitter size={24} />
         </a>
-      </div>
+      </>
     )
   },
   footer: {
