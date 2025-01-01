@@ -2,7 +2,6 @@
 export default {
   index: "Introduction",
   "getting-started": "Getting Started",
-  "api-reference": "API Reference",
   "fomo3d-launchpad": "FOMO3D Launchpad", 
   "fomo3d-amm": "FOMO3D AMM",
   "security-and-audits": "Security and Audits",

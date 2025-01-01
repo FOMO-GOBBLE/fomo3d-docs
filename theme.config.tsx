@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   docsRepositoryBase: 'https://github.com/johnforfar/fomo3d-docs/tree/nextra',
   darkMode: true,
   sidebar: {
-    defaultMenuCollapseLevel: 1,
+    //defaultMenuCollapseLevel: 1,
     toggleButton: true
   },
   navbar: {

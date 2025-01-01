@@ -15,6 +15,6 @@ To interact with FOMO3D, you'll need a Solana-compatible wallet:
 
 ## Next Steps
 
-- Learn about [Providing Liquidity](fomo3d-amm/liquidity-provision.md).
-- Discover how to [Trade on FOMO3D](fomo3d-amm/trading-on-fomo3d.md).
-- Explore [Launching or Supporting Memecoin Projects](fomo3d-launchpad/overview.md).
+- Learn about [Providing Liquidity](../fomo3d-amm/liquidity-provision.md).
+- Discover how to [Trade on FOMO3D](../fomo3d-amm/trading-on-fomo3d.md).
+- Explore [Launching or Supporting Memecoin Projects](../fomo3d-launchpad/supporting-projects.md).

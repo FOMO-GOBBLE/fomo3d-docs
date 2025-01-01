@@ -10,5 +10,3 @@ FOMO3D takes security seriously to protect users' assets:
 
 - **Regular Updates**: Continuous improvement of smart contracts based on audits and user feedback.
 - **Bug Bounty Program**: Encourages the community to find and report vulnerabilities with rewards.
-
-Stay updated on security enhancements via our [official channels](#).
