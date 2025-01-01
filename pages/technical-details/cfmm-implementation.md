@@ -1,17 +1,34 @@
-# CFMM Implementation in FOMO3D
+# CFMM Implementation in Gobbler (F8M3)
 
-FOMO3D's Constant Function Market Maker (CFMM) uses:
+## Core Implementation
+- Built for Solana Virtual Machine (SVM)
+- Uses constant function market maker (CFMM) model
+- Base formula: `x * y = k^2`
+  - x and y represent token quantities in reserve pools
+  - Maintains equilibrium: `(x + Δx) * (y - Δy) = x * y = k^2`
 
-- **Formula**: `x * y = k^2`, where `x` and `y` are token reserves, and `k` is a constant.
+## Bonding Curve System
+- Dual-curve mechanism: `k^2 * k'^2 = virtual_α`
+- Components:
+  - k^2: Traditional constant product
+  - k'^2: Dynamic constant evolving with liquidity timing
+  - virtual_α: Parameter governing k and k' relationship
 
-## Bonding Curve Mechanics
+## Liquidity Pool Types
+1. Traditional LP Pools
+   - Operates like conventional DEXs
+   - Liquidity providers earn swap-based fees
+   - Withdrawals available anytime
 
-- **Dual Curve**: `k^2 * k'^2 = α`, where `k'` is dynamic based on liquidity timing, and `α` is a constant.
-- **Liquidity Incentives**: Early providers receive more LP tokens, incentivizing timely liquidity addition.
+2. Bonding Curve LPs
+   - LP tokens priced on bonding curve
+   - Early depositors receive higher potential returns
+   - Incentivizes delayed withdrawals
+   - Uses game-theory approach for liquidity management
 
-## Implementation Details
+## Liquidity Mechanics
+- Early providers receive more tokens (L(t_early) > L(t_late))
+- Fee allocation f(t) proportional to L(t)
+- System encourages maintained positions for longer periods
 
-- **Deposit/Withdraw**: Calculated to balance the pool's constant product while adjusting for the bonding curve.
-- **Price Impact**: Automatically calculated based on the amount of tokens swapped relative to pool size.
-
-This approach aims to optimize liquidity provision, reduce impermanent loss, and encourage long-term liquidity stability.
+**NOTE:** All above information is based off the [F8M3 Security Audit](../security-and-audits/audit-reports/f8m3-security-review.md). More information about SNAPPER implementation coming soon.

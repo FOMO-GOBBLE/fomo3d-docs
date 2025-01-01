@@ -1,17 +1,39 @@
-# Smart Contract Architecture of FOMO3D
+# Smart Contract Architecture of Gobbler (F8M3)
 
-FOMO3D's smart contracts are built on Solana with the following architecture:
+## Repository Information
+- Current Repository: https://github.com/staccDOTsol/raydium-cp-swap/tree/master
+- Commit (audit): a1b39110a246cfb22108e4ade9186f172abb41da
+- Future Migration: https://github.com/FOMO-GOBBLE/mono-fomo
 
-- **AMM Core**: Handles liquidity pools, swaps, and LP token minting/burning.
-- **Launchpad**: Manages project submissions, token distribution, and vesting schedules.
-- **Fee Distribution**: Automatically allocates fees to different parties (LPs, protocol, development).
+## Core Processes
+1. Deposit Process
+   - User calls deposit function
+   - Pool status verification
+   - Token amount calculation
+   - LP token minting
 
-## Key Functions
+2. Withdraw Process
+   - User calls withdraw function
+   - Pool status verification
+   - Liquidity calculation
+   - Token transfer and LP token burning
 
-- `addLiquidity`: Adds tokens to a pool, mints LP tokens.
-- `removeLiquidity`: Burns LP tokens, returns tokens to providers.
-- `swap`: Executes token swaps based on pool reserves.
+3. Swap Process
+   - Pool status verification
+   - Fee calculation
+   - Token transfer execution
+   - State updates
 
-## Interaction
+## Security Status
+- Audit Period: September 20th - October 31st, 2024
+- Critical Issues Resolved:
+  1. GOBBLER_01: Bonding curve calculation correction
+  2. GOBBLER_02: Fee distribution alignment
 
-Users interact through the frontend, which communicates with these contracts via Solana's transaction system.
+## Testing Methodology
+- Analyzed 1,271,870 transactions
+- Included swaps and LP changes
+- Simulated high-volume market conditions
+- Focus on real-world operation scenarios
+
+**NOTE:** All above information is based off the [F8M3 Security Audit](../security-and-audits/audit-reports/f8m3-security-review.md). More information about SNAPPER implementation coming soon.
