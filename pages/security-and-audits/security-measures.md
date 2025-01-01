@@ -1,12 +1,26 @@
-# Security Measures in FOMO3D
+# Security Measures in Gobbler (F8M3)
 
-FOMO3D takes security seriously to protect users' assets:
+## Audit Methodology
+- Period: September 20th - October 31st, 2024
+- Auditor: Mad Shield
+- Approach: Data-driven testing and analysis
 
-- **Smart Contract Audits**: Regular audits by reputable firms to identify and fix vulnerabilities.
-- **Multi-signature Wallets**: For critical operations, ensuring no single point of failure.
-- **Codebase Transparency**: Open-source development for community review and trust.
+## Testing Coverage
+- Historical Analysis: 1,271,870 transactions
+- Transaction Types: Swaps, LP changes
+- Focus Areas: 
+  - High-volume environments
+  - Meme market scenarios
+  - Throughput testing
 
-## Security Protocols
+## Security Verification Steps
+1. Historical Data Analysis
+2. Client Update Testing
+3. Real-World Condition Simulation
+4. Performance Monitoring
+5. Constraint Adjustment
 
-- **Regular Updates**: Continuous improvement of smart contracts based on audits and user feedback.
-- **Bug Bounty Program**: Encourages the community to find and report vulnerabilities with rewards.
+## Code Transparency
+- Repository Access: Public
+- Current Location: https://github.com/staccDOTsol/raydium-cp-swap/tree/master
+- Planned Migration: https://github.com/FOMO-GOBBLE/mono-fomo
