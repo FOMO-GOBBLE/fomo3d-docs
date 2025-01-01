@@ -1,5 +1,7 @@
 # Understanding the FOMO3D AMM
 
+![FOMO3D DEX](../../public/assets/info-gobbler-dex.jpeg)
+
 FOMO3D's Automated Market Maker (AMM) introduces unique mechanics to enhance DeFi trading:
 
 - **Dual Curve System**: Combines traditional constant product with a dynamic bonding curve for liquidity incentives.

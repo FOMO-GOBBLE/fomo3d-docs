@@ -1,5 +1,7 @@
 # Overview of FOMO3D Launchpad
 
+![FOMO3D Launchpad](../../public/assets/info-fomo3d-launchpad.jpeg)
+
 FOMO3D's launchpad is designed to help new Solana-based memecoins gain initial traction. Here's what it offers:
 
 - **Project Token Creation**: A streamlined no-code process for creators to create their memecoin projects onchain.
