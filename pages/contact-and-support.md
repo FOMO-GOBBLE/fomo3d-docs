@@ -1,12 +1,12 @@
 # Contact and Support
 
-## Official social media channels for FOMO3D
+## Official Social Media Channels for FOMO3D
 
 * [**Linktree**](https://linktr.ee/fomo3d): Official links for FOMO3D
 * [**Telegram**](https://t.me/fomo3dGobbler): Official FOMO3D Telegram channel
 * [**X**](https://x.com/solanaDOTfun): Follow for updates and announcements
 
-## Unofficial channels for FOMO3D
+## Unofficial Channels for FOMO3D
 
 * [**GobblerPools**](https://t.me/GobblerPools): Discussion about Gobbler Pools
 * [**Solana.Fun Launchpad Room**](https://t.me/Fomo3dShills): TG Chat for project token launches
@@ -15,7 +15,7 @@
 
 * [**Solana.Fun Non-Issues**](https://t.me/+wkvyBlOTBcc3ZWM0): Report issues with FOMO3D launchpad, swaps and liquidity pools here
 
-### How to submit a report:
+### How to Submit a Report:
 
 Please include in ONE message a / multiple screenshots of your issue (if you can include console log this helps) 
 
