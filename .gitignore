@@ -16,4 +16,4 @@ _book
 *.pdf
 
 .next
-.package-lock.json
+package-lock.json
