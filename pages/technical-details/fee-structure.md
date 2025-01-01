@@ -12,8 +12,3 @@ FOMO3D employs a flat-rate fee system:
 
 - **Lower Proportional Costs**: For high-value trades.
 - **Incentivizes Liquidity**: Providers benefit from a predictable fee model.
-
-## Configuration
-
-- **Adjustable**: Fees can be tuned to market conditions or community feedback.
-- **Transparent**: All fee structures are visible on-chain for user clarity.
