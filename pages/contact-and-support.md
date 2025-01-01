@@ -35,4 +35,4 @@ Thanks 🙏
 
 * **[Solana.Fun Memes Media](https://t.me/SlanaFunMemesMedia)**: Post your memes here!
 
-<figure><img src=".gitbook/assets/fomo3d-soldiers.gif" alt=""><figcaption></figcaption></figure>
+![FOMO3D Soldiers](/assets/fomo3d-soldiers.gif)
