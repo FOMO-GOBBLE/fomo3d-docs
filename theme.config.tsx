@@ -1,3 +1,4 @@
+// theme.config.tsx
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 import { FaTelegramPlane, FaTwitter } from 'react-icons/fa';
