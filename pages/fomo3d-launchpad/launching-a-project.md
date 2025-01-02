@@ -15,7 +15,7 @@ To launch your memecoin on FOMO3D:
      NOTE: In order for a token to be considered bonded, it will require approximately 80 SOL.
 
 2. **Marketing and Community Engagement**:
-   - Shill your token on the Unofficial Solana.Fun Launchpad telegram channel. The FOMO3D team does not actively manage this channel and is community supported. (contact-and-support/contact-and-support.md)
+   - Shill your token on the Unofficial Solana.Fun Launchpad telegram channel. The FOMO3D team does not actively manage this channel and is community supported. [Contact and Support](../contact-and-support.md)
 
 3. **Listing and Launch**:
    - FOMO3D is currently developing auto-bond and pool creation for projects that launch. If you token SOL pair is not listed on the Liquidity pools page, you will need to manually create a pool. If any issues reach out to the FOMO3D team on Telegram.
