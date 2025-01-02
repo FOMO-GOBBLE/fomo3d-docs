@@ -64,7 +64,7 @@ FOMO3D serves as a launchpad for new tokens and projects, incorporating an innov
 
 * [Getting Started](introduction-to-fomo3d/intro-to-fomo3d.md)
 * [FOMO3D Launchpad](fomo3d-launchpad/fomo3d-overview.md)
-* [FOMO3D AMM](fomo3d-dex/understanding-the-dex.md)
+* [FOMO3D DEX](fomo3d-dex/understanding-the-dex.md)
 * [Security and Audits](security-and-audits/security-measures.md)
 * [Technical Details](technical-details/smart-contract-architecture.md)
 * [Developer Docs](developer-docs/api-reference.md)
