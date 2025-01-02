@@ -4,7 +4,7 @@
 
 - **$FOMO3D** - 69% of fees go to $FOMO3D stakers
 - **Mages NFT's** - 25% of fees go to Mages NFT stakers
-- **$PET** - 1.5% of fees go to $FOMO3D stakers
+- **$PET** - 1.5% of fees go to $PET stakers
 - **Dev team** - 4.5% of fees go to the dev team (buybacks lock, burn, finance future development)
 
 NOTE: Check out the [Contact and Support](../contact-and-support) page join their respective communities.
