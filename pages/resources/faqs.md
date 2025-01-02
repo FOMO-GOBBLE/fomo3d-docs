@@ -25,7 +25,7 @@
 
 * **What blockchain does FOMO3D operate on?**
   * Solana.
-* **How does the AMM work?**
-  * FOMO3D uses a unique CFMM with a bonding curve. Learn more at [Understanding the AMM](../../fomo3d-amm/understanding-the-amm.md).
+* **How does the AMM or DEX work?**
+  * FOMO3D uses a unique CFMM with a bonding curve. Learn more at [Understanding the DEX](../../fomo3d-dex/understanding-the-dex.md).
 
 For more questions, join our community or check out our [Contact and Support](../../contact-and-support.md).

@@ -43,13 +43,13 @@ Welcome to the official documentation for FOMO3D, a groundbreaking platform on t
     </a>
   </div>
   <div class="flex-cell">
-    <a href="/fomo3d-amm/understanding-the-amm">
+    <a href="/fomo3d-dex/understanding-the-dex">
       <img src="/assets/logo-gobbler.png" alt="Gobbler">
       <div class="text">GOBBLER DEX</div>
     </a>
   </div>
   <div class="flex-cell">
-    <a href="/fomo3d-amm/understanding-the-amm">
+    <a href="/fomo3d-dex/understanding-the-dex">
       <img src="/assets/logo-snapper.png" alt="Snapper">
       <div class="text">SNAPPER DEX</div>
     </a>
@@ -64,7 +64,7 @@ FOMO3D serves as a launchpad for new tokens and projects, incorporating an innov
 
 * [Getting Started](introduction-to-fomo3d/intro-to-fomo3d.md)
 * [FOMO3D Launchpad](fomo3d-launchpad/fomo3d-overview.md)
-* [FOMO3D AMM](fomo3d-amm/understanding-the-amm.md)
+* [FOMO3D AMM](fomo3d-dex/understanding-the-dex.md)
 * [Security and Audits](security-and-audits/security-measures.md)
 * [Technical Details](technical-details/smart-contract-architecture.md)
 * [Developer Docs](developer-docs/api-reference.md)
@@ -72,7 +72,10 @@ FOMO3D serves as a launchpad for new tokens and projects, incorporating an innov
 * [Resources](resources/glossary.md)
 * [Contact and Support](contact-and-support.md)
 
-Join the FOMO3D community:
+Join & follow the FOMO3D community!
 
-* [Website](https://solana.fun)
 * [Twitter](https://x.com/solanaDOTfun)
+* [Telegram](contact-and-support.md)
+
+Official Website:
+* [Solana.Fun](https://solana.fun)

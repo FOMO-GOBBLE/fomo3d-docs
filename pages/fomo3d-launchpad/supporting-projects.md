@@ -14,3 +14,5 @@
 Remember to:
 - **Research**: Use all available resources to understand each project.
 - **Diversify**: Spread your assets to mitigate risks. Not financial advice.
+
+![FOMO3D Launchpad](/assets/screenshots/fomo3d-launchpad-desktop.jpg)

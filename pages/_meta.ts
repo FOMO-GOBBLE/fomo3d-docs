@@ -3,7 +3,7 @@ export default {
   index: "Introduction",
   "getting-started": "Getting Started",
   "fomo3d-launchpad": "FOMO3D Launchpad", 
-  "fomo3d-amm": "FOMO3D AMM",
+  "fomo3d-dex": "FOMO3D DEX",
   "security-and-audits": "Security and Audits",
   "technical-details": "Technical Details",
   "developer-docs": "Developer Docs",

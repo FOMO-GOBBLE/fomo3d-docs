@@ -15,7 +15,7 @@
 
 * [**Solana.Fun Non-Issues**](https://t.me/+wkvyBlOTBcc3ZWM0): Report issues with FOMO3D launchpad, swaps and liquidity pools here
 
-### How to Submit a Report:
+### How to Submit a Support Ticket:
 
 Please include in ONE message a / multiple screenshots of your issue (if you can include console log this helps) 
 
@@ -36,3 +36,11 @@ Thanks 🙏
 * **[Solana.Fun Memes Media](https://t.me/SlanaFunMemesMedia)**: Post your memes here!
 
 ![FOMO3D Soldiers](/assets/fomo3d-soldiers.gif)
+
+## Token Communities
+
+* [**FOMO3D Token**](https://t.me/fomo3dGobbler): Official FOMO3D Token community
+* [**PET Token**](https://t.me/PetFomo3d): Official PET Token community
+* [**Mages NFT**](https://t.me/FomoMages): Official Mages NFT community
+
+Head back to the [FOMO3D Docs Home Page](/).

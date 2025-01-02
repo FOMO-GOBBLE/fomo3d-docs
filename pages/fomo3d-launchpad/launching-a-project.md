@@ -12,7 +12,7 @@ To launch your memecoin on FOMO3D:
      - Token Banner
      - Initial Buy (how much worth of SOL the project developer will buy at launch)
 
-     NOTE: In order for a token to be considered bonded, it will require approximately 80 SOL.
+     NOTE: In order for a token to be considered bonded, it will require approximately ~85 SOL.
 
 2. **Marketing and Community Engagement**:
    - Shill your token on the Unofficial Solana.Fun Launchpad telegram channel. The FOMO3D team does not actively manage this channel and is community supported. [Contact and Support](../contact-and-support.md)
