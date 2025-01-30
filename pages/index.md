@@ -38,13 +38,13 @@ Welcome to the official documentation for SOLFUN, a pioneering platform on the S
 <div class="flex-container">
   <div class="flex-cell">
     <a href="/solfun-launchpad/solfun-overview">
-      <img src="/assets/logo-fomo3d.png" alt="FOMO3D">
+      <img src="/assets/solfun-snapper-logo-black-on-green.png" alt="FOMO3D">
       <div class="text">SOLFUN Launchpad</div>
     </a>
   </div>
   <div class="flex-cell">
     <a href="/solfun-dex/understanding-the-dex">
-      <img src="/assets/logo-snapper.png" alt="Snapper">
+      <img src="/assets/solfun-snapper-logo-green-on-black.png" alt="Snapper">
       <div class="text">SOLFUN Snapper DEX</div>
     </a>
   </div>

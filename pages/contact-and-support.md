@@ -40,7 +40,7 @@ Thanks 🙏
 ## Token Communities
 
 * [**FOMO3D Token**](https://t.me/fomo3dGobbler): Official FOMO3D Token community
-* [**PET Token**](https://t.me/PetFomo3d): Official PET Token community
+* [**INFO Token**](https://t.me/Infothedog): Official INFO Token community
 * [**Mages NFT**](https://t.me/FomoMages): Official Mages NFT community
 
 Head back to the [SOLFUN Docs Home Page](/).
