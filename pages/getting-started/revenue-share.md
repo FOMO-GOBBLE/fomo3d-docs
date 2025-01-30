@@ -2,18 +2,18 @@
 
 ## What assets are eligible for revenue share?
 
-- **$FOMO3D** - 69% of fees go to $FOMO3D stakers
+- **$SOLFUN** - 69% of fees go to $SOLFUN stakers
 - **Mages NFT's** - 25% of fees go to Mages NFT stakers
-- **$PET** - 1.5% of fees go to $PET stakers
+- **$INFO** - 1.5% of fees go to $INFO stakers
 - **Dev team** - 4.5% of fees go to the dev team (buybacks lock, burn, finance future development)
 
 NOTE: Check out the [Contact and Support](../contact-and-support) page join their respective communities.
 
 ![FOMO3D Revenue Share Model](/assets/info-rev-share-model.jpg)
 
-## Where can I purchase $FOMO3D or $PET?
+## Where can I purchase $SOLFUN or $INFO?
 
-You can purchase $FOMO3D and $PET on popular Solana DEX's like Jupiter, Raydium, Orca, and Dexscreener, or swap directly within your favorite wallet, like Phantom.
+You can purchase $SOLFUN and $INFO on popular Solana DEX's like Jupiter, Raydium, Orca, and Dexscreener, or swap directly within your favorite wallet, like Phantom.
 
 - $FOMO3D contract address: **BQpGv6LVWG1JRm1NdjerNSFdChMdAULJr3x9t2Swpump**
 - $PET contract address: **EnmpsuDayDDA8N71VQXcZPhCzfMr1yt4SW4ivSSewn5C**

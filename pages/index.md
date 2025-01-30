@@ -4,7 +4,7 @@ icon: hand-wave
 
 # Introduction
 
-Welcome to the official documentation for FOMO3D, a groundbreaking platform on the Solana blockchain that combines the functionalities of a Decentralized Exchange (DEX) Automated Market Maker (AMM) with a memecoin launchpad. Here, you'll find all the information you need to understand, use, and interact with FOMO3D.
+Welcome to the official documentation for SOLFUN, a pioneering platform on the Solana blockchain that integrates a memecoin launchpad named FOMO with a Decentralized Exchange (DEX) called Snapper. Here, you'll find all the information you need to interact with SOLFUN.
 
 <style>
   .flex-container {
@@ -39,13 +39,7 @@ Welcome to the official documentation for FOMO3D, a groundbreaking platform on t
   <div class="flex-cell">
     <a href="/fomo3d-launchpad/fomo3d-overview">
       <img src="/assets/logo-fomo3d.png" alt="FOMO3D">
-      <div class="text">FOMO3D Launchpad</div>
-    </a>
-  </div>
-  <div class="flex-cell">
-    <a href="/fomo3d-dex/understanding-the-dex">
-      <img src="/assets/logo-gobbler.png" alt="Gobbler">
-      <div class="text">GOBBLER DEX</div>
+      <div class="text">FOMO Launchpad</div>
     </a>
   </div>
   <div class="flex-cell">
@@ -58,7 +52,11 @@ Welcome to the official documentation for FOMO3D, a groundbreaking platform on t
 
 ## Overview
 
-FOMO3D serves as a launchpad for new tokens and projects, incorporating an innovative DEX known as "Gobbler". Gobbler uses a unique constant product curve with virtual liquidity to manage liquidity pools and implements a flat-rate fee system for trading, aiming to revolutionize liquidity provisioning, trading, and memecoin launches.
+SOLFUN combines the functionalities of the FOMO launchpad for new token launches with the Snapper DEX for trading. Here are the latest updates:
+
+* **Token Migration:** The $FOMO3D token has been reminted to $SOLFUN, with the migration process now live. The migration period ends on Wednesday, February 5, 2025, at 23:59 EST.
+* **Security Enhancements:** The Snapper DEX has been audited by AuditaSecurity for enhanced security measures.
+* **Technical Improvements:** Enhancements to the user interface for better usability and new trading functionalities in Snapper DEX.
 
 ### Quick Links
 

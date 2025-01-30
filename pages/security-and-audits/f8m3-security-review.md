@@ -1,5 +1,7 @@
 # F8M3 Program Audit Report
 
+[Download Full Report](https://github.com/madshieldio/Publications/blob/main/Gobble/Fun...Fomo...Gobble...Go.pdf)
+
 ## Audit Overview
 Date: November 1st, 2024
 Scope: Gobbler protocol security and implementation review
@@ -28,5 +30,3 @@ GOBBLER_GR_01 [ACKNOWLEDGED]
 - Audit Commit: a1b39110a246cfb22108e4ade9186f172abb41da
 - Location: https://github.com/staccDOTsol/raydium-cp-swap/tree/master
 
-## References
-[Audit Report - F8M3 Program Security Review](https://github.com/madshieldio/Publications/blob/main/Gobble/Fun...Fomo...Gobble...Go.pdf)
