@@ -1,4 +1,4 @@
-# FOMO3D Docs
+# SOLFUN Docs
 
 Based off the open source doc library for NextJS called [Nextra](https://nextra.site).
 

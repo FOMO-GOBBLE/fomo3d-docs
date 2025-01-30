@@ -1,4 +1,4 @@
-# Liquidity Provision on FOMO3D
+# Liquidity Provision on SOLFUN
 
 ## How to Provide Liquidity
 

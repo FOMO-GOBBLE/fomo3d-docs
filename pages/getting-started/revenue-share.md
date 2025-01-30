@@ -15,8 +15,10 @@ NOTE: Check out the [Contact and Support](../contact-and-support) page join thei
 
 You can purchase $SOLFUN and $INFO on popular Solana DEX's like Jupiter, Raydium, Orca, and Dexscreener, or swap directly within your favorite wallet, like Phantom.
 
-- $FOMO3D contract address: **BQpGv6LVWG1JRm1NdjerNSFdChMdAULJr3x9t2Swpump**
-- $PET contract address: **EnmpsuDayDDA8N71VQXcZPhCzfMr1yt4SW4ivSSewn5C**
+- $SOLFUN contract address: **PENDING**
+- $INFO contract address: **C9N9Jrvzk9P36DvzxT9BJkd4cAEgTHVVERpmQK92gV5V**
+
+Note: $FOMO3D **BQpGv6LVWG1JRm1NdjerNSFdChMdAULJr3x9t2Swpump** is the old token name and has now been rebranded and migrated to $SOLFUN.
 
 <style>
   .flex--token-container {
@@ -43,7 +45,7 @@ You can purchase $SOLFUN and $INFO on popular Solana DEX's like Jupiter, Raydium
 </style>
 <div class="flex--token-container">
   <div class="flex-token-cell">
-      <img src="/assets/tokens/icon-fomo3d.jpg" alt="FOMO3D Token">
+      <img src="/assets/tokens/icon-fomo3d.jpg" alt="SOLFUN Token">
   </div>
   <div class="flex-token-cell">
       <img src="/assets/tokens/icon-pet.jpg" alt="PET Token">
@@ -82,13 +84,13 @@ Mages NFT's are available for purchase on popular NFT marketplaces like Magic Ed
 </style>
 <div class="flex-container">
   <div class="flex-cell">
-      <img src="/assets/mages/mages65.png" alt="FOMO3D Mages">
+      <img src="/assets/mages/mages65.png" alt="SOLFUN Mages">
   </div>
   <div class="flex-cell">
-      <img src="/assets/mages/mages105.png" alt="FOMO3D Mages">
+      <img src="/assets/mages/mages105.png" alt="SOLFUN Mages">
   </div>
     <div class="flex-cell">
-      <img src="/assets/mages/mages190.png" alt="FOMO3D Mages">
+      <img src="/assets/mages/mages190.png" alt="SOLFUN Mages">
   </div>
 </div>
 

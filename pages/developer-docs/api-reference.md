@@ -1,3 +1,3 @@
-# FOMO3D API Reference
+# SOLFUN API Reference
 
 Coming soon

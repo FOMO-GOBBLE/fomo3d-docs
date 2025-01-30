@@ -1,9 +1,9 @@
-# Launching a Project on FOMO3D
+# Launching a Project on SOLFUN
 
-To launch your memecoin on FOMO3D:
+To launch your memecoin on SOLFUN:
 
 1. **Select Launch Your Own Token button**:
-   - Select the 'Launch Your Own Token' buttonfrom the FOMO3D website main page.
+   - Select the 'Launch Your Own Token' buttonfrom the SOLFUN website main page.
    - Submit the details of your token:
      - Token Symbol
      - Token Name
@@ -15,10 +15,10 @@ To launch your memecoin on FOMO3D:
      NOTE: In order for a token to be considered bonded, it will require approximately ~85 SOL.
 
 2. **Marketing and Community Engagement**:
-   - Shill your token on the Unofficial Solana.Fun Launchpad telegram channel. The FOMO3D team does not actively manage this channel and is community supported. [Contact and Support](../contact-and-support.md)
+   - Shill your token on the Unofficial Solana.Fun Launchpad telegram channel. The SOLFUN team does not actively manage this channel and is community supported. [Contact and Support](../contact-and-support.md)
 
 3. **Listing and Launch**:
-   - FOMO3D is currently developing auto-bond and pool creation for projects that launch. If you token SOL pair is not listed on the Liquidity pools page, you will need to manually create a pool. If any issues reach out to the FOMO3D team on Telegram.
+   - SOLFUN is currently developing auto-bond and pool creation for projects that launch. If you token SOL pair is not listed on the Liquidity pools page, you will need to manually create a pool. If any issues reach out to the SOLFUN team on Telegram.
 
 <div style="margin-top: 20px;"></div>
 

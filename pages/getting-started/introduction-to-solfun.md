@@ -1,4 +1,4 @@
-# Introduction to FOMO3D
+# Introduction to SOLFUN
 
 SOLFUN is a multifaceted platform on the Solana blockchain that serves both as a **decentralized exchange (DEX)** and a **memecoin launchpad**. It's designed to revolutionize liquidity provisioning and trading through an innovative automated market maker (AMM) model. "Snapper", tackles the challenges of capital efficiency, impermanent loss, and fee structures in decentralized finance (DeFi) by implementing:
 
@@ -7,9 +7,9 @@ SOLFUN is a multifaceted platform on the Solana blockchain that serves both as a
 
 This combination not only aims to provide a more efficient and user-friendly trading environment but also facilitates the creation and launch of new memecoins, fostering a vibrant ecosystem for both trading and meme-driven projects.
 
-## FOMO Launchpad at Solana.Fun
+## SOLFUN Launchpad at Solana.Fun
 
-The FOMO Launchpad is responsive and available on both mobile and desktop at [Solana.Fun](https://solana.fun/fomo).
+The SOLFUN Launchpad is responsive and available on both mobile and desktop at [Solana.Fun](https://solana.fun/fomo).
 
 <style>
   .flex-container {
@@ -63,5 +63,5 @@ The FOMO Launchpad is responsive and available on both mobile and desktop at [So
 - Unique revenue share model, where holders of $SOLFUN, $INFO and Mages NFT's receive a share of the fees generated.
 - Memecoin launchpad where where tokens are auto-bonded and launched on the DEX shortly after.
 
-![FOMO3D Revenue Share Model](/assets/info-rev-share-model.jpg)
+![SOLFUN Revenue Share Model](/assets/info-rev-share-model.jpg)
 

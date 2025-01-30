@@ -4,7 +4,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 import { FaTelegramPlane, FaTwitter } from 'react-icons/fa';
 
 const config: DocsThemeConfig = {
-  logo: <span>FOMO3D Docs</span>,
+  logo: <span>SOLFUN Docs</span>,
   /*project: {
     link: 'https://github.com/johnforfar/fomo3d-docs/tree/nextra',
   },*/
@@ -44,7 +44,7 @@ const config: DocsThemeConfig = {
     )
   },
   footer: {
-    content: 'FOMO3D Docs'
+    content: 'SOLFUN Docs'
   },
   // Setting navigation to false to disable any default navigation items
   navigation: false

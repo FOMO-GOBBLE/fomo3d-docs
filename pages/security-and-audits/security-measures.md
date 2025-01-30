@@ -31,7 +31,7 @@
 ## Testing Coverage
 - Historical Analysis: 1,271,870 transactions
 - Transaction Types: Swaps, LP changes
-- Focus Areas: 
+- Focus Areas:
   - High-volume environments
   - Meme market scenarios
   - Throughput testing

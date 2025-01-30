@@ -1,8 +1,8 @@
-# Supporting Projects on FOMO3D
+# Supporting Projects on SOLFUN
 
 ## How to Support your Favorite Projects
 
-1. **Browse Projects**: Explore the list of upcoming and ongoing launches on FOMO3D.
+1. **Browse Projects**: Explore the list of upcoming and ongoing launches on SOLFUN's Launchpad.
 2. **Due Diligence**: Review project details, team, tokenomics, and community sentiment.
 3. **Support**: Connect your wallet, select the amount to ape, and confirm the transaction.
 
@@ -15,4 +15,4 @@ Remember to:
 - **Research**: Use all available resources to understand each project.
 - **Diversify**: Spread your assets to mitigate risks. Not financial advice.
 
-![FOMO3D Launchpad](/assets/screenshots/fomo3d-launchpad-desktop.jpg)
+![SOLFUN Launchpad](/assets/screenshots/fomo3d-launchpad-desktop.jpg)

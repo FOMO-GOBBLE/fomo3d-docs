@@ -1,6 +1,6 @@
-// pages/fomo3d-launchpad/_meta.ts
+// pages/fomo-launchpad/_meta.ts
 export default {
-    "fomo3d-overview": "FOMO3D Overview",
+    "solfun-overview": "SOLFUN Overview",
     "launching-a-project": "Launching a Project",
     "supporting-projects": "Supporting Projects"
   }

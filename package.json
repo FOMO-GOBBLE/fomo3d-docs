@@ -1,7 +1,7 @@
 {
-  "name": "fomo3d-docs",
+  "name": "solfun-docs",
   "version": "0.0.1",
-  "description": "FOMO3D Documentation - A DEX AMM with memecoin launchpad on Solana",
+  "description": "SOLFUN Documentation - A DEX AMM with memecoin launchpad on Solana",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

@@ -4,7 +4,7 @@ icon: hand-wave
 
 # Introduction
 
-Welcome to the official documentation for SOLFUN, a pioneering platform on the Solana blockchain that integrates a memecoin launchpad named FOMO with a Decentralized Exchange (DEX) called Snapper. Here, you'll find all the information you need to interact with SOLFUN.
+Welcome to the official documentation for SOLFUN, a pioneering platform on the Solana blockchain that integrates a memecoin launchpad with a Decentralized Exchange (DEX) called Snapper. Here, you'll find all the information you need to interact with SOLFUN.
 
 <style>
   .flex-container {
@@ -37,32 +37,32 @@ Welcome to the official documentation for SOLFUN, a pioneering platform on the S
 </style>
 <div class="flex-container">
   <div class="flex-cell">
-    <a href="/fomo3d-launchpad/fomo3d-overview">
+    <a href="/solfun-launchpad/solfun-overview">
       <img src="/assets/logo-fomo3d.png" alt="FOMO3D">
-      <div class="text">FOMO Launchpad</div>
+      <div class="text">SOLFUN Launchpad</div>
     </a>
   </div>
   <div class="flex-cell">
-    <a href="/fomo3d-dex/understanding-the-dex">
+    <a href="/solfun-dex/understanding-the-dex">
       <img src="/assets/logo-snapper.png" alt="Snapper">
-      <div class="text">SNAPPER DEX</div>
+      <div class="text">SOLFUN Snapper DEX</div>
     </a>
   </div>
 </div>
 
 ## Overview
 
-SOLFUN combines the functionalities of the FOMO launchpad for new token launches with the Snapper DEX for trading. Here are the latest updates:
+SOLFUN combines the functionalities of the SOLFUN launchpad for new token launches with the Snapper DEX for trading. Here are the latest updates:
 
 * **Token Migration:** The $FOMO3D token has been reminted to $SOLFUN, with the migration process now live. The migration period ends on Wednesday, February 5, 2025, at 23:59 EST.
-* **Security Enhancements:** The Snapper DEX has been audited by AuditaSecurity for enhanced security measures.
-* **Technical Improvements:** Enhancements to the user interface for better usability and new trading functionalities in Snapper DEX.
+* **Security Enhancements:** The SOLFUN Snapper DEX has been audited by AuditaSecurity for enhanced security measures.
+* **Technical Improvements:** Enhancements to the user interface for better usability and new trading functionalities in SOLFUN Snapper DEX.
 
 ### Quick Links
 
 * [Getting Started](introduction-to-fomo3d/intro-to-fomo3d.md)
-* [FOMO3D Launchpad](fomo3d-launchpad/fomo3d-overview.md)
-* [FOMO3D DEX](fomo3d-dex/understanding-the-dex.md)
+* [SOLFUN Launchpad](solfun-launchpad/solfun-overview.md)
+* [SOLDUN Snapper DEX](solfun-dex/understanding-the-dex.md)
 * [Security and Audits](security-and-audits/security-measures.md)
 * [Technical Details](technical-details/smart-contract-architecture.md)
 * [Developer Docs](developer-docs/api-reference.md)

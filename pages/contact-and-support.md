@@ -1,19 +1,19 @@
 # Contact and Support
 
-## Official Social Media Channels for FOMO3D
+## Official Social Media Channels for SOLFUN
 
-* [**Linktree**](https://linktr.ee/fomo3d): Official links for FOMO3D
+* [**Linktree**](https://linktr.ee/fomo3d): Official links for SOLFUN
 * [**Telegram**](https://t.me/fomo3dGobbler): Official FOMO3D Telegram channel
 * [**X**](https://x.com/solanaDOTfun): Follow for updates and announcements
 
-## Unofficial Channels for FOMO3D
+## Unofficial Channels for SOLFUN
 
 * [**GobblerPools**](https://t.me/GobblerPools): Discussion about Gobbler Pools
 * [**Solana.Fun Launchpad Room**](https://t.me/Fomo3dShills): TG Chat for project token launches
 
 ## Support Channels
 
-* [**Solana.Fun Non-Issues**](https://t.me/+wkvyBlOTBcc3ZWM0): Report issues with FOMO3D launchpad, swaps and liquidity pools here
+* [**Solana.Fun Non-Issues**](https://t.me/+wkvyBlOTBcc3ZWM0): Report issues with SOLFUN launchpad, swaps and liquidity pools here
 
 ### How to Submit a Support Ticket:
 
@@ -43,4 +43,4 @@ Thanks 🙏
 * [**PET Token**](https://t.me/PetFomo3d): Official PET Token community
 * [**Mages NFT**](https://t.me/FomoMages): Official Mages NFT community
 
-Head back to the [FOMO3D Docs Home Page](/).
+Head back to the [SOLFUN Docs Home Page](/).

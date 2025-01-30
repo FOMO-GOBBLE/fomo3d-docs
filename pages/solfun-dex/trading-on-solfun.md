@@ -1,4 +1,4 @@
-# Trading on FOMO3D
+# Trading on SOLFUN
 
 ## How to Swap Tokens
 
