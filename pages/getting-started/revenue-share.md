@@ -15,7 +15,7 @@ NOTE: Check out the [Contact and Support](../contact-and-support) page join thei
 
 You can purchase $SOLFUN and $INFO on popular Solana DEX's like Jupiter, Raydium, Orca, and Dexscreener, or swap directly within your favorite wallet, like Phantom.
 
-- $SOLFUN contract address: **PENDING**
+- $SOLFUN contract address: **SoLFUNF2Ys2GK5Y7XBbCzSmiXPxKWPVTkvxpHYtRqfv**
 - $INFO contract address: **C9N9Jrvzk9P36DvzxT9BJkd4cAEgTHVVERpmQK92gV5V**
 
 Note: $FOMO3D **BQpGv6LVWG1JRm1NdjerNSFdChMdAULJr3x9t2Swpump** is the old token name and has now been rebranded and migrated to $SOLFUN.
@@ -45,7 +45,7 @@ Note: $FOMO3D **BQpGv6LVWG1JRm1NdjerNSFdChMdAULJr3x9t2Swpump** is the old token 
 </style>
 <div class="flex--token-container">
   <div class="flex-token-cell">
-      <img src="/assets/tokens/solfun-snapper-logo-green-on-black.png" alt="SOLFUN Token">
+      <img src="/assets/solfun-snapper-logo-green-on-black.png" alt="SOLFUN Token">
   </div>
   <div class="flex-token-cell">
       <img src="/assets/tokens/icon-info.jpg" alt="INFO Token">
@@ -93,6 +93,12 @@ Mages NFT's are available for purchase on popular NFT marketplaces like Magic Ed
       <img src="/assets/mages/mages190.png" alt="SOLFUN Mages">
   </div>
 </div>
+
+## Annual fees earned by tokens held
+
+Hypothetical revshare based on PF and Ray 2024 $1B annual revenue. Not financial advice.
+
+![Snapper DEX Revenue Share](/assets/solfun-revenue-table.png)
 
 ## How do I stake and claim my revenue share?
 
