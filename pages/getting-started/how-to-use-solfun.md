@@ -7,7 +7,7 @@ To interact with SOLFUN, you'll need a Solana-compatible wallet:
 - **Install a Wallet**: Use wallets like Phantom, Solflare, or Ledger Live.
 - **Add Solana Network**: Ensure your wallet is configured to use the Solana network.
 
-![How to Connect a Wallet to SOLFUN](/assets/screenshots/fomo3d-connect-wallet.jpg)
+![How to Connect a Wallet to SOLFUN](/assets/screenshots/solfun-wallet.jpg)
 
 ## Connecting to SOLFUN
 

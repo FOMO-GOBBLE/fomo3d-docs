@@ -38,13 +38,13 @@ Welcome to the official documentation for SOLFUN, a pioneering platform on the S
 <div class="flex-container">
   <div class="flex-cell">
     <a href="/solfun-launchpad/solfun-overview">
-      <img src="/assets/solfun-snapper-logo-black-on-green.png" alt="FOMO3D">
+      <img src="/assets/solfun-snapper-logo-black-on-green.png" alt="SOLFUN Launchpad">
       <div class="text">SOLFUN Launchpad</div>
     </a>
   </div>
   <div class="flex-cell">
     <a href="/solfun-dex/understanding-the-dex">
-      <img src="/assets/solfun-snapper-logo-green-on-black.png" alt="Snapper">
+      <img src="/assets/solfun-snapper-logo-green-on-black.png" alt="SOLFUN Snapper DEX">
       <div class="text">SOLFUN Snapper DEX</div>
     </a>
   </div>
@@ -60,7 +60,7 @@ SOLFUN combines the functionalities of the SOLFUN launchpad for new token launch
 
 ### Quick Links
 
-* [Getting Started](introduction-to-fomo3d/intro-to-fomo3d.md)
+* [Getting Started](introduction-to-solfun/intro-to-solfun.md)
 * [SOLFUN Launchpad](solfun-launchpad/solfun-overview.md)
 * [SOLDUN Snapper DEX](solfun-dex/understanding-the-dex.md)
 * [Security and Audits](security-and-audits/security-measures.md)
@@ -70,7 +70,7 @@ SOLFUN combines the functionalities of the SOLFUN launchpad for new token launch
 * [Resources](resources/glossary.md)
 * [Contact and Support](contact-and-support.md)
 
-Join & follow the FOMO3D community!
+Join & follow the SOLFUN community!
 
 * [Twitter](https://x.com/solanaDOTfun)
 * [Telegram](contact-and-support.md)

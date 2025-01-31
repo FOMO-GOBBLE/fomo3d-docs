@@ -25,9 +25,4 @@
 - Focused on high-volume scenarios
 - Simulated real-world conditions
 
-## Repository Details
-- Current: https://github.com/staccDOTsol/raydium-cp-swap/tree/master
-- Commit: a1b39110a246cfb22108e4ade9186f172abb41da
-- Future: https://github.com/FOMO-GOBBLE/mono-fomo
-
-**NOTE:** All above information is based off the [F8M3 Security Audit](../security-and-audits/audit-reports/f8m3-security-review.md). More information about SNAPPER implementation coming soon.
+**NOTE:** All above information is based off the [F8M3 Security Audit](../security-and-audits/f8m3-security-review.md). More information about SNAPPER implementation coming soon.

@@ -27,4 +27,4 @@ Where:
 - Δx = ΔL * Rx / virtual_α / L
 - Δy = ΔL * Ry / virtual_α / L
 
-**NOTE:** All above information is based off the [F8M3 Security Audit](../security-and-audits/audit-reports/f8m3-security-review.md). More information about SNAPPER implementation coming soon.
+**NOTE:** All above information is based off the [F8M3 Security Audit](../security-and-audits/f8m3-security-review.md). More information about SNAPPER implementation coming soon.

@@ -6,6 +6,8 @@
 2. **Deposit Tokens**: Add an equal value of both tokens in the pair to the pool.
 3. **Receive LP Tokens**: In return, you'll get liquidity provider tokens representing your share.
 
+![SOLFUN DEX Liquidity Pools](/assets/screenshots/solfun-pools.jpg)
+
 <style>
   .lp-container {
     display: flex;
@@ -47,7 +49,7 @@
     </ul>
   </div>
   <div class="lp-image">
-    <img src="/assets/solfun-lp-swap-fees.png" alt="Liquidity Provision">
+    <img src="/assets/screenshots/solfun-lp-swap-fees.png" alt="Liquidity Provision">
   </div>
 </div>
 

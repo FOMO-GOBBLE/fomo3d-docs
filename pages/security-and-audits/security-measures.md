@@ -1,4 +1,4 @@
-# Security Measures in Gobbler (F8M3)
+# SOLFUN Security Measures
 
 ## Security Audits
 

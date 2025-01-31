@@ -1,6 +1,6 @@
 # Understanding the SOLFUN DEX
 
-![SOLFUN DEX](../../public/assets/solfun-snapper.png)
+![SOLFUN DEX](/assets/solfun-snapper.png)
 
 SOLFUN's Automated Market Maker (AMM) or DEX, introduces unique mechanics to enhance DeFi trading:
 

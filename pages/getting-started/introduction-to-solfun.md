@@ -49,19 +49,19 @@ The SOLFUN Launchpad is responsive and available on both mobile and desktop at [
 <table style="width: 100%; margin-top: 20px;">
     <tr>
         <td style="text-align: center;">
-            <img src="/assets/screenshots/fomo3d-launchpad-mobile.jpg" alt="FOMO3D Launchpad Mobile Screenshot" class="mobile-image">
+            <img src="/assets/screenshots/solfun-mobile-launchpad.jpg" alt="SOLFUN Launchpad Mobile Screenshot" class="mobile-image">
         </td>
         <td style="text-align: center;">
-            <img src="/assets/screenshots/fomo3d-launchpad-desktop.jpg" alt="FOMO3D Launchpad Desktop Screenshot" class="desktop-image">
+            <img src="/assets/screenshots/solfun-launchpad.jpg" alt="SOLFUN Launchpad Desktop Screenshot" class="desktop-image">
         </td>
     </tr>
 </table>
 
 ## Why SOLFUN?
 
-- Flat-rate fee system, whereas other DEX's charge a percentage fee. This makes FOMO3D the cheapest swaps on Solana. 
+- Flat-rate fee system, whereas other DEX's charge a percentage fee. This makes SOLFUN the cheapest swaps on Solana.
 - Unique revenue share model, where holders of $SOLFUN, $INFO and Mages NFT's receive a share of the fees generated.
 - Memecoin launchpad where where tokens are auto-bonded and launched on the DEX shortly after.
 
-![SOLFUN Revenue Share Model](/assets/info-rev-share-model.jpg)
+![SOLFUN Revenue Share Model](/assets/solfun-revshare.png)
 

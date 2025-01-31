@@ -3,7 +3,7 @@
 ## Official Social Media Channels for SOLFUN
 
 * [**Linktree**](https://linktr.ee/fomo3d): Official links for SOLFUN
-* [**Telegram**](https://t.me/fomo3dGobbler): Official FOMO3D Telegram channel
+* [**Telegram**](https://t.me/fomo3dGobbler): Official SOLFUN Telegram channel
 * [**X**](https://x.com/solanaDOTfun): Follow for updates and announcements
 
 ## Unofficial Channels for SOLFUN
@@ -35,11 +35,11 @@ Thanks 🙏
 
 * **[Solana.Fun Memes Media](https://t.me/SlanaFunMemesMedia)**: Post your memes here!
 
-![FOMO3D Soldiers](/assets/fomo3d-soldiers.gif)
+![SOLFUN Soldiers](/assets/fomo3d-soldiers.gif)
 
 ## Token Communities
 
-* [**FOMO3D Token**](https://t.me/fomo3dGobbler): Official FOMO3D Token community
+* [**SOLFUN Token**](https://t.me/fomo3dGobbler): Official SOLFUN Token community
 * [**INFO Token**](https://t.me/Infothedog): Official INFO Token community
 * [**Mages NFT**](https://t.me/FomoMages): Official Mages NFT community
 

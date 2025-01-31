@@ -1,6 +1,6 @@
 # Overview of SOLFUN Launchpad
 
-![SOLFUN Launchpad](../../public/assets/info-fomo3d-launchpad.jpeg)
+![SOLFUN Launchpad](/assets/screenshots/solfun-launchpad.jpg)
 
 SOLFUN's launchpad is designed to help new Solana-based memecoins gain initial traction. Here's what it offers:
 

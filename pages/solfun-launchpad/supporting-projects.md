@@ -15,4 +15,4 @@ Remember to:
 - **Research**: Use all available resources to understand each project.
 - **Diversify**: Spread your assets to mitigate risks. Not financial advice.
 
-![SOLFUN Launchpad](/assets/screenshots/fomo3d-launchpad-desktop.jpg)
+![SOLFUN Launchpad](/assets/screenshots/solfun-launchpad.jpg)

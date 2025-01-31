@@ -32,4 +32,4 @@ Three distinct fee destinations:
    - Recommended range: 1-5 million token units
    - Higher rates justified by increased impermanent loss risk
 
-   **NOTE:** All above information is based off the [F8M3 Security Audit](../security-and-audits/audit-reports/f8m3-security-review.md). More information about SNAPPER implementation coming soon.
+   **NOTE:** All above information is based off the [F8M3 Security Audit](../security-and-audits/f8m3-security-review.md).

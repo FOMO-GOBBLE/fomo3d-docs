@@ -9,7 +9,7 @@
 
 NOTE: Check out the [Contact and Support](../contact-and-support) page join their respective communities.
 
-![FOMO3D Revenue Share Model](/assets/info-rev-share-model.jpg)
+![SOLFUN Revenue Share Model](/assets/solfun-revshare.png)
 
 ## Where can I purchase $SOLFUN or $INFO?
 
@@ -45,10 +45,10 @@ Note: $FOMO3D **BQpGv6LVWG1JRm1NdjerNSFdChMdAULJr3x9t2Swpump** is the old token 
 </style>
 <div class="flex--token-container">
   <div class="flex-token-cell">
-      <img src="/assets/tokens/icon-fomo3d.jpg" alt="SOLFUN Token">
+      <img src="/assets/tokens/solfun-snapper-logo-green-on-black.png" alt="SOLFUN Token">
   </div>
   <div class="flex-token-cell">
-      <img src="/assets/tokens/icon-pet.jpg" alt="PET Token">
+      <img src="/assets/tokens/icon-info.jpg" alt="INFO Token">
   </div>
 </div>
 
