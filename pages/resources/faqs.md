@@ -4,7 +4,7 @@
 
 * **What is SOLFUN?**
 
-  * Solana.fun is an innovative, one-stop memecoin trading platform on Solana. It offers simple token launches and low fees, with over 95% of fees reclaimable by users and stakers. The ecosystem includes the SOLFUN Launchpad and the Snapper DEX. As Solana.fun grows, more protocols may be added.
+  * Solana.fun is an innovative, one-stop memecoin trading platform on Solana. It offers simple token launches and low fees, with over 95% of fees reclaimable by users and stakers. The ecosystem includes the Fomo Launchpad and the Snapper DEX. As Solana.fun grows, more protocols may be added.
 
 * **Is SOLFUN secure & fully audited?**
   * Yes, SOLFUN undergoes regular security audits. It has passed two audits at time of writing. See the audit reports and fixes at our [Security Measures](../../security-and-audits/security-measures.md) page.
@@ -12,7 +12,7 @@
 * **What blockchain does SOLFUN operate on?**
   * Solana. Not Cardano.
 
-* **How does the AMM or DEX work?**
+* **How does the CLMM or DEX work?**
   * SOLFUN uses a unique CFMM with a bonding curve. Learn more at [Understanding the DEX](../../solana-dex/understanding-the-dex.md).
 
 ## Revenue Share
@@ -27,6 +27,8 @@ Solana.fun redistributes 95% of fees to stakers across three assets:
 
   The remaining 5% is used for team operations, marketing, and CEX listings. Fees are proportionally redistributed to stakers of $SOLFUN, Mage NFTs, and $INFO. Stakers can claim their share of fees in SOL periodically.
 
+  Learn more about the [Revenue Share](../../getting-started/revenue-share.md) model here!
+
 * **How can I stake my $SOLFUN, Mages, or $INFO to claim fees?**
 
   The staking contract will be available soon. For now, simply hold your $SOLFUN, Mage NFTs, or $INFO. More information will be provided shortly.
@@ -35,14 +37,15 @@ Solana.fun redistributes 95% of fees to stakers across three assets:
 
 * **How do I connect my wallet?**
   * Navigate to the [SOLFUN website](https://solana.fun/), click 'Connect Wallet', and choose your wallet provider.
+
 * **What are the fees for trading?**
   * SOLFUN uses a flat fee per trade. Check the [Fee Structure](../../technical-details/fee-structure.md) for specifics.
 
 ## Launchpad
 
-* **What is the SOLFUN Launchpad?**
+* **What is the Fomo Launchpad?**
 
-The SOLFUN Launchpad is a platform that simplifies memecoin creation on Solana
+The Fomo Launchpad is a platform that simplifies memecoin creation on Solana
 
 To launch a token:
 
@@ -53,10 +56,10 @@ To launch a token:
 3. Once created, your token must reach 85 SOL liquidity to bond and be listed on Snapper
 
 * **Can anyone launch a project?**
-  * Projects must complete the Create Your Own Token form to create their project token which is self-service. See [Launching a Project](../../solfun-launchpad/launching-a-project.md).
+  * Projects must complete the Create Your Own Token form to create their project token which is self-service. See [Launching a Project](../../fomo-launchpad/launching-a-project.md).
 
 * **How can I support new memecoins?**
-  * Projects are listed on our platform; you can support during their pre-bonding launch phase. [Supporting Projects](../../solfun-launchpad/supporting-projects.md) provides guidance.
+  * Projects are listed on our platform; you can support during their pre-bonding launch phase. [Supporting Projects](../../fomo-launchpad/supporting-projects.md) provides guidance.
 
 ## Liquidity Pools & Snapper DEX
 
@@ -86,6 +89,6 @@ This feature is currently being rolled out. More information will be available s
 
 Further details will be shared soon.
 
-## Learn more...
+## Join our Community!
 
 For more questions, join our community or check out our [Contact and Support](../../contact-and-support.md).

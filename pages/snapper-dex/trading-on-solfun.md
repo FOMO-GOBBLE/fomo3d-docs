@@ -6,7 +6,7 @@
 2. **Set Amount**: Enter the amount you wish to trade, considering slippage and price impact.
 3. **Execute Swap**: Confirm the transaction via your wallet.
 
-![SOLFUN DEX Swaps](/assets/screenshots/solfun-swap.jpg)
+![Snapper DEX Swaps](/assets/screenshots/solfun-swap.jpg)
 
 ## Fee Structure Explained
 

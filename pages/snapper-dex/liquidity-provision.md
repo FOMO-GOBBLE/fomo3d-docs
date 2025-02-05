@@ -6,7 +6,7 @@
 2. **Deposit Tokens**: Add an equal value of both tokens in the pair to the pool.
 3. **Receive LP Tokens**: In return, you'll get liquidity provider tokens representing your share.
 
-![SOLFUN DEX Liquidity Pools](/assets/screenshots/solfun-pools.jpg)
+![Snapper DEX Liquidity Pools](/assets/screenshots/solfun-pools.jpg)
 
 <style>
   .lp-container {
@@ -42,7 +42,6 @@
 <div class="lp-container">
   <div class="lp-content">
     <ul>
-      <li><strong>Bonding Curve</strong>: Early liquidity providers get more LP tokens for their deposit, incentivizing early participation.</li>
       <li><strong>Rewards and Fees</strong>: You earn a portion of the trading fees based on your liquidity share.</li>
       <li><strong>Unique Fee Distribution</strong>: Snapper's novel mechanism maximizes ROI for early depositors and long-term holders.</li>
       <li><strong>High Volume Benefits</strong>: Increased returns from substantial transaction volume rerouted through Snapper.</li>
@@ -55,7 +54,7 @@
 
 ## Incentives
 
-- **Early Liquidity Rewards**: Higher returns for early funders due to the bonding curve.
+- **Early Liquidity Rewards**: Higher returns for early providers due to the novel fee distribution mechanics.
 - **Fee Sharing**: Collect trading fees proportional to your LP token ownership.
 - **Ecosystem Advantage**: Access to exclusive LP opportunities unique within the Solana ecosystem.
 

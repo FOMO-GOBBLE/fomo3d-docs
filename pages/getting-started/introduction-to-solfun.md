@@ -7,9 +7,9 @@ SOLFUN is a multifaceted platform on the Solana blockchain that serves both as a
 
 This combination not only aims to provide a more efficient and user-friendly trading environment but also facilitates the creation and launch of new memecoins, fostering a vibrant ecosystem for both trading and meme-driven projects.
 
-## SOLFUN Launchpad at Solana.Fun
+## Fomo Launchpad at Solana.Fun
 
-The SOLFUN Launchpad is responsive and available on both mobile and desktop at [Solana.Fun](https://solana.fun/fomo).
+The Fomo Launchpad is responsive and available on both mobile and desktop at [Solana.Fun](https://solana.fun/fomo).
 
 <style>
   .flex-container {
@@ -49,10 +49,10 @@ The SOLFUN Launchpad is responsive and available on both mobile and desktop at [
 <table style="width: 100%; margin-top: 20px;">
     <tr>
         <td style="text-align: center;">
-            <img src="/assets/screenshots/solfun-mobile-launchpad.jpg" alt="SOLFUN Launchpad Mobile Screenshot" class="mobile-image">
+            <img src="/assets/screenshots/solfun-mobile-launchpad.jpg" alt="Fomo Launchpad Mobile Screenshot" class="mobile-image">
         </td>
         <td style="text-align: center;">
-            <img src="/assets/screenshots/solfun-launchpad.jpg" alt="SOLFUN Launchpad Desktop Screenshot" class="desktop-image">
+            <img src="/assets/screenshots/solfun-launchpad.jpg" alt="Fomo Launchpad Desktop Screenshot" class="desktop-image">
         </td>
     </tr>
 </table>
@@ -60,7 +60,7 @@ The SOLFUN Launchpad is responsive and available on both mobile and desktop at [
 ## Why SOLFUN?
 
 - Flat-rate fee system, whereas other DEX's charge a percentage fee. This makes SOLFUN the cheapest swaps on Solana.
-- Unique revenue share model, where holders of $SOLFUN, $INFO and Mages NFT's receive a share of the fees generated.
+- Unique revenue share model, where holders of $SOLFUN, $INFO and Mages NFTs receive a share of the fees generated.
 - Memecoin launchpad where where tokens are auto-bonded and launched on the DEX shortly after.
 
 ![SOLFUN Revenue Share Model](/assets/solfun-revshare.png)

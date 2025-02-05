@@ -1,7 +1,7 @@
 {
   "name": "solfun-docs",
   "version": "0.0.1",
-  "description": "SOLFUN Documentation - A DEX AMM with memecoin launchpad on Solana",
+  "description": "SOLFUN Documentation - A DEX CLMM with memecoin launchpad on Solana",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

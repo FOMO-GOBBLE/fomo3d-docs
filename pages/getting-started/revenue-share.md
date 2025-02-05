@@ -3,9 +3,9 @@
 ## What assets are eligible for revenue share?
 
 - **$SOLFUN** - 69% of fees go to $SOLFUN stakers
-- **Mages NFT's** - 25% of fees go to Mages NFT stakers
-- **$INFO** - 1.5% of fees go to $INFO stakers
-- **Dev team** - 4.5% of fees go to the dev team (buybacks lock, burn, finance future development)
+- **Mages NFTs** - 25% of fees go to Mages NFT stakers
+- **$INFO** - 1% of fees go to $INFO stakers
+- **Dev team** - 5% of fees go to the dev team (buybacks lock, burn, finance future development)
 
 NOTE: Check out the [Contact and Support](../contact-and-support) page join their respective communities.
 
@@ -13,7 +13,7 @@ NOTE: Check out the [Contact and Support](../contact-and-support) page join thei
 
 ## Where can I purchase $SOLFUN or $INFO?
 
-You can purchase $SOLFUN and $INFO on popular Solana DEX's like Jupiter, Raydium, Orca, and Dexscreener, or swap directly within your favorite wallet, like Phantom.
+You will be able to purchase $SOLFUN and $INFO on popular Solana DEX's like Jupiter, Raydium, Orca, and Dexscreener, or swap directly within your favorite wallet, like Phantom. Initially, you will be able to purchase $SOLFUN and $INFO on Snapper DEX.
 
 - $SOLFUN contract address: **SoLFUNF2Ys2GK5Y7XBbCzSmiXPxKWPVTkvxpHYtRqfv**
 - $INFO contract address: **C9N9Jrvzk9P36DvzxT9BJkd4cAEgTHVVERpmQK92gV5V**
@@ -52,9 +52,9 @@ Note: $FOMO3D **BQpGv6LVWG1JRm1NdjerNSFdChMdAULJr3x9t2Swpump** is the old token 
   </div>
 </div>
 
-## Where can I purchase Mages NFT's?
+## Where can I purchase Mages NFTs?
 
-Mages NFT's are available for purchase on popular NFT marketplaces like Magic Eden or Tensor.
+Mages NFTs are available for purchase on popular NFT marketplaces like Magic Eden or Tensor.
 
 - [Magic Eden](https://magiceden.io/marketplace/mages)
 - [Tensor](https://www.tensor.trade/trade/mages)

@@ -17,6 +17,6 @@ To interact with SOLFUN, you'll need a Solana-compatible wallet:
 
 ## Next Steps
 
-- Learn about [Providing Liquidity](../solfun-dex/liquidity-provision.md).
-- Discover how to [Trade on SOLFUN](../solfun-dex/trading-on-solfun.md).
-- Explore [Launching or Supporting Memecoin Projects](../solfun-launchpad/supporting-projects.md).
+- Learn about [Providing Liquidity](../snapper-dex/liquidity-provision.md).
+- Discover how to [Trade on SOLFUN](../snapper-dex/trading-on-solfun.md).
+- Explore [Launching or Supporting Memecoin Projects](../fomo-launchpad/supporting-projects.md).

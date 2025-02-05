@@ -1,9 +1,9 @@
-# Launching a Project on SOLFUN
+# Launching a Project on Fomo Launchpad
 
-To launch your memecoin on SOLFUN:
+To launch your memecoin on Fomo Launchpad:
 
 1. **Select Launch Your Own Token button**:
-   - Select the 'Launch Your Own Token' buttonfrom the SOLFUN website main page.
+   - Select the 'Launch Your Own Token' button from the Solana.fun website main page.
    - Submit the details of your token:
      - Token Symbol
      - Token Name
@@ -17,10 +17,10 @@ To launch your memecoin on SOLFUN:
 ![SOLFUN Launch Your Own Token](/assets/screenshots/solfun-launch-token.jpg)
 
 2. **Marketing and Community Engagement**:
-   - Shill your token on the Unofficial Solana.Fun Launchpad telegram channel. The SOLFUN team does not actively manage this channel and is community supported. [Contact and Support](../contact-and-support.md)
+   - Shill your token on the Unofficial Fomo Launchpad Telegram channel. The Solana.fun team does not actively manage this channel, all management is led and supported by the community. [Contact and Support](../contact-and-support.md)
 
 3. **Listing and Launch**:
-   - SOLFUN is currently developing auto-bond and pool creation for projects that launch. If you token SOL pair is not listed on the Liquidity pools page, you will need to manually create a pool. If any issues reach out to the SOLFUN team on Telegram.
+   - Solana.fun is currently developing auto-bonding and pool creation for projects that launch. If your token’s SOL pair is not listed on the Liquidity pools page, you will need to manually create a pool. If there are any issues, reach out to the Solana.fun team through Telegram.
 
 <!--<div style="margin-top: 20px;"></div>
 

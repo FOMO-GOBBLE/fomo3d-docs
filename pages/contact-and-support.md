@@ -13,7 +13,7 @@
 
 ## Support Channels
 
-* [**Solana.Fun Non-Issues**](https://t.me/+wkvyBlOTBcc3ZWM0): Report issues with SOLFUN launchpad, swaps and liquidity pools here
+* [**Solana.Fun Non-Issues**](https://t.me/+wkvyBlOTBcc3ZWM0): Report issues with Fomo launchpad, swaps and liquidity pools here
 
 ### How to Submit a Support Ticket:
 

@@ -1,10 +1,10 @@
-# Understanding the SOLFUN DEX
+# Understanding the Snapper DEX
 
-![SOLFUN DEX](/assets/solfun-snapper.png)
+![Snapper DEX](/assets/solfun-snapper.png)
 
-SOLFUN's Automated Market Maker (AMM) or DEX, introduces unique mechanics to enhance DeFi trading:
+SOLFUN's Automated Market Maker (AMM) or Snapper DEX, introduces unique mechanics to enhance DeFi trading:
 
-- **Dual Curve System**: Combines traditional constant product with a dynamic bonding curve for liquidity incentives.
+- **Innovative system**: Combines a more traditional constant fee swap, with a novel fee distribution approach for liquidity providers.
 - **Flat Fee Structure**: Aims at making large trades more cost-effective while reducing MEV impact.
 - **Risk-Averse Design**: Innovative mechanics optimized for established and heavily traded pairs.
 - **Aggregator-Friendly**: Lower costs enable efficient rerouting through Solana aggregators.

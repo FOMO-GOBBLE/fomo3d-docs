@@ -1,35 +1,22 @@
-# Fee Structure in Gobbler (F8M3)
+# Fee Structure in Snapper
+
+Snapper employs a transparent, configurable fee model designed to deliver predictable trading costs regardless of trade volume.
 
 ## Core Fee System
-- Implements innovative flat-rate fee structure
-- Contrasts with conventional percentage-based DEX models
-- Designed to benefit larger trades and reduce proportional costs
+- **Flat-Rate Fee Model:**  
+  - Ensures consistent fee application across diverse trade sizes.
+  - Minimizes percentage-based cost fluctuations, making high-volume trades more cost-effective.
+  
+- **Configurable Parameters:**  
+  - All fee parameters—including protocol, creator, and liquidity provider fees—are fully configurable on-chain.
+  - Adjustments are executed through governed transactions to ensure transparency and community oversight.
 
 ## Fee Distribution Components
-Three distinct fee destinations:
-1. Liquidity Provider Fees
-   - Redeemable through LP tokens
-   - Value appreciates with accumulated fees
+- **Liquidity Provider Fees:**  
+  - Distributed to LP token holders as part of their share in pool gains.
+- **Protocol Fees:**  
+  - Allocated to sustain platform operations and fund future developments.
+- **Creator Fees:**  
+  - Directed toward ongoing project enhancements and ecosystem support.
 
-2. Protocol Fees
-   - Configurable percentage
-   - Designed for platform sustainability
-
-3. Creator Fees
-   - Configurable percentage
-   - Supports ongoing development
-
-## Market Integration
-- Currently integrated with Jupiter Aggregator
-- Routes larger trades through platform due to lower fees
-
-## Fee Rate Recommendations
-1. Established Pairs (74% of analyzed volume)
-   - Optimal range: 30,000-40,000 token units
-   - Examples: SOL-USDC, SOL-JLP pairs
-
-2. Volatile Pairs (26% of analyzed volume)
-   - Recommended range: 1-5 million token units
-   - Higher rates justified by increased impermanent loss risk
-
-   **NOTE:** All above information is based off the [F8M3 Security Audit](../security-and-audits/f8m3-security-review.md).
+**Note:** This fee structure highlights Snapper's commitment to efficiency and fairness, achieving robust, market-responsive fee adjustments without unnecessary complexity.

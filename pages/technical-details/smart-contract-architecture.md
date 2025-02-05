@@ -1,28 +1,33 @@
-# Smart Contract Architecture of Gobbler (F8M3)
+# Smart Contract Architecture of Snapper
 
-## Program Flow Charts
-1. Deposit Process
-   - Initial pool status verification
-   - Token amount calculation
-   - LP token minting
-   - State updates
+Snapper's architecture is built to optimize liquidity management, trade execution, and user engagement through innovative on-chain features. The design focuses on efficient operations and dynamic reserve balancing.
 
-2. Withdraw Process
-   - Pool status verification
-   - Virtual liquidity calculation
-   - Token transfers
-   - LP token burning
+## Key Features
 
-3. Swap Process
-   - Swap direction determination
-   - Fee calculation (protocol, trading, fund fees)
-   - Token transfers
-   - State updates
+### Liquidity Management
+- **Seamless Deposits:** 
+  - Liquidity contributions are validated and processed to ensure pool integrity.
+  - Both virtual and real reserves are updated in tandem, enabling precise liquidity tracking.
+  - Liquidity Provider (LP) tokens are minted to represent a contributor's share.
+  
+- **Efficient Withdrawals:**
+  - The system verifies pool conditions and liquidity availability promptly.
+  - Virtual reserve states are recalibrated to ensure accurate withdrawal amounts.
+  - LP tokens are burned to reflect liquidity removal, with assets transferred back securely.
 
-## Testing Implementation
-- Based on Raydium CP-Swap fork
-- Analyzed 1,271,870 transactions
-- Focused on high-volume scenarios
-- Simulated real-world conditions
+### Trade Execution
+- **Robust Swap Mechanism:**
+  - Supports both buy and sell operations, automatically adapting to user intent.
+  - Utilizes high-precision virtual reserve calculations to derive market-responsive pricing.
+  - Applies configurable flat-rate fees while updating both reserve types to maintain core invariants.
 
-**NOTE:** All above information is based off the [F8M3 Security Audit](../security-and-audits/f8m3-security-review.md). More information about SNAPPER implementation coming soon.
+### Underlying Technologies
+- **Dynamic Reserve Management:** 
+  - Virtual reserves are optimized for precise pricing and slippage control.
+  - Real reserves mirror on-chain token balances to maintain liquidity constraints.
+- **Configurable Parameters:**  
+  - On-chain fee and liquidity settings are administrable via governed transactions.
+- **Anchor Framework Integration:**  
+  - Leverages Solana's Anchor framework for robust, secure, and efficient smart contract operations.
+
+**Note:** This overview encapsulates Snapper's current implementation, subject to updates & improvements over time.
