@@ -4,6 +4,9 @@
 
 * **What is SOLFUN?**
   * SOLFUN is a Solana-based DEX and memecoin launchpad designed to enhance trading efficiency and project launches.
+
+  * Solana.fun is an innovative, one-stop memecoin trading platform on Solana. It offers simple token launches and low fees, with over 95% of fees reclaimable by users and stakers. The ecosystem includes the SOLFUN Launchpad and the Snapper DEX. As Solana.fun grows, more protocols may be added.
+
 * **Is SOLFUN secure?**
   * Yes, SOLFUN undergoes regular security audits. See our [Security Measures](../../security-and-audits/security-measures.md) for details.
 
@@ -19,6 +22,10 @@ Solana.fun redistributes 95% of fees to stakers across three assets:
 
   The remaining 5% is used for team operations, marketing, and CEX listings. Fees are proportionally redistributed to stakers of $SOLFUN, Mage NFTs, and $INFO. Stakers can claim their share of fees in SOL periodically.
 
+* **How can I stake my $SOLFUN, Mages, or $INFO to claim fees?**
+
+  The staking contract will be available soon. For now, simply hold your $SOLFUN, Mage NFTs, or $INFO. More information will be provided shortly.
+
 ## Usage
 
 * **How do I connect my wallet?**
@@ -27,6 +34,18 @@ Solana.fun redistributes 95% of fees to stakers across three assets:
   * SOLFUN uses a flat fee per trade. Check the [Fee Structure](../../technical-details/fee-structure.md) for specifics.
 
 ## Launchpad
+
+* **What is the SOLFUN Launchpad?**
+
+The SOLFUN Launchpad is a platform that simplifies memecoin creation on Solana
+
+To launch a token:
+
+1. Visit https://www.solana.fun/launch/
+
+2. Provide the token name, ticker, description and image
+
+3. Once created, your token must reach 85 SOL liquidity to bond and be listed on Snapper
 
 * **Can anyone launch a project?**
   * Projects must complete the Create Your Own Token form to create their project token which is self-service. See [Launching a Project](../../solfun-launchpad/launching-a-project.md).
