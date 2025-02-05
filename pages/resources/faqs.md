@@ -3,12 +3,17 @@
 ## General
 
 * **What is SOLFUN?**
-  * SOLFUN is a Solana-based DEX and memecoin launchpad designed to enhance trading efficiency and project launches.
 
   * Solana.fun is an innovative, one-stop memecoin trading platform on Solana. It offers simple token launches and low fees, with over 95% of fees reclaimable by users and stakers. The ecosystem includes the SOLFUN Launchpad and the Snapper DEX. As Solana.fun grows, more protocols may be added.
 
-* **Is SOLFUN secure?**
-  * Yes, SOLFUN undergoes regular security audits. See our [Security Measures](../../security-and-audits/security-measures.md) for details.
+* **Is SOLFUN secure & fully audited?**
+  * Yes, SOLFUN undergoes regular security audits. It has passed two audits at time of writing. See the audit reports and fixes at our [Security Measures](../../security-and-audits/security-measures.md) page.
+
+* **What blockchain does SOLFUN operate on?**
+  * Solana. Not Cardano.
+
+* **How does the AMM or DEX work?**
+  * SOLFUN uses a unique CFMM with a bonding curve. Learn more at [Understanding the DEX](../../solana-dex/understanding-the-dex.md).
 
 ## Revenue Share
 
@@ -49,14 +54,38 @@ To launch a token:
 
 * **Can anyone launch a project?**
   * Projects must complete the Create Your Own Token form to create their project token which is self-service. See [Launching a Project](../../solfun-launchpad/launching-a-project.md).
+
 * **How can I support new memecoins?**
   * Projects are listed on our platform; you can support during their pre-bonding launch phase. [Supporting Projects](../../solfun-launchpad/supporting-projects.md) provides guidance.
 
-## Technical
+## Liquidity Pools & Snapper DEX
 
-* **What blockchain does SOLFUN operate on?**
-  * Solana.
-* **How does the AMM or DEX work?**
-  * SOLFUN uses a unique CFMM with a bonding curve. Learn more at [Understanding the DEX](../../solana-dex/understanding-the-dex.md).
+* **What is the Snapper DEX?**
+
+Snapper is a DEX in the Solana.fun ecosystem that enable low-cost memecoin trading.
+
+Snapper provides a more familiar model for professional liquidity providers (LPs), focusing on established pairs (e.g., SOL/USDC) without bonding curves.
+
+Both DEXs offer low fees and a chance to earn fees on any token pair. Earlier LPs benefit from larger fee shares and potential token value appreciation.
+
+* **What is the fee model for Gobbler and Snapper?**
+
+Snapper operates with a novel constant fee model:
+
+  * 50% of fees go to liquidity providers (LPs).
+  * 47.75% goes to stakers.
+  * 2.25% goes to the team.
+
+There are no fees for creating pools or providing liquidity.
+
+* **How can I set up new liquidity pools or provide liquidity on Snapper DEX?**
+
+This feature is currently being rolled out. More information will be available soon.
+
+* **When will Snapper liquidity pools be integrated into Jupiter?**
+
+Further details will be shared soon.
+
+## Learn more...
 
 For more questions, join our community or check out our [Contact and Support](../../contact-and-support.md).
