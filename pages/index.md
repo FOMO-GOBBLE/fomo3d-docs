@@ -60,7 +60,7 @@ SOLFUN combines the functionalities of the Fomo launchpad for new token launches
 
 ### Quick Links
 
-* [Getting Started](introduction-to-solfun/intro-to-solfun.md)
+* [Getting Started](getting-started/introduction-to-solfun.md)
 * [Fomo Launchpad](fomo-launchpad/solfun-overview.md)
 * [Snapper DEX](snapper-dex/understanding-the-dex.md)
 * [Security and Audits](security-and-audits/security-measures.md)
@@ -73,7 +73,7 @@ SOLFUN combines the functionalities of the Fomo launchpad for new token launches
 Join & follow the SOLFUN community!
 
 * [Twitter](https://x.com/solanaDOTfun)
-* [Telegram](contact-and-support.md)
+* [Telegram](http://t.me/solanadotfun)
 
 Official Website:
 * [Solana.Fun](https://solana.fun)
