@@ -2,16 +2,6 @@
 
 ## Security Audits
 
-### Mad Shield Audit
-- **Period**: September 20th - October 31st, 2024
-- **Auditor**: Mad Shield
-- **Scope**: Gobbler protocol security and implementation review
-- **Key Findings**: 2 Critical issues (RESOLVED)
-  - GOBBLER_01: Incorrect Bonding Curve Calculation
-  - GOBBLER_02: Fee Distribution Misappropriation
-- **Status**: All critical issues resolved in patch 639cfe20e9b9027ac2b5714855185d4ad30b1586
-- [More Details](f8m3-security-review.md)
-
 ### Audita Security Audit
 - **Period**: January 20th - January 28th, 2025
 - **Auditor**: Audita Security (audita.io)
@@ -23,8 +13,8 @@
 - [More Details](snapper-security-review.md)
 
 ## Audit Methodology
-- Period: September 20th - October 31st, 2024
-- Auditor: Mad Shield
+- Period: January 20th - January 28th, 2025
+- Auditor: Audita
 - Approach: Data-driven testing and analysis
 
 ## Testing Coverage

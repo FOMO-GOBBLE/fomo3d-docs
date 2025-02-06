@@ -10,7 +10,7 @@
   * Yes, SOLFUN undergoes regular security audits. It has passed two audits at time of writing. See the audit reports and fixes at our [Security Measures](../../security-and-audits/security-measures.md) page.
 
 * **What blockchain does SOLFUN operate on?**
-  * Solana. Not Cardano.
+  * Solana. For now `;)`
 
 * **How does the CLMM or DEX work?**
   * SOLFUN uses a unique CFMM with a bonding curve. Learn more at [Understanding the DEX](../../solana-dex/understanding-the-dex.md).
@@ -23,7 +23,7 @@ Solana.fun redistributes 95% of fees to stakers across three assets:
 
   * $SOLFUN token (69% of fees): The primary ecosystem token.
   * $MAGE NFTs (25% of fees): The official Solana.fun NFT collection.
-  * $INFO token (1% of fees): The official dog of the Solana.fun!
+  * $INFO token (1% of fees): The official dog of Solana.fun!
 
   The remaining 5% is used for team operations, marketing, and CEX listings. Fees are proportionally redistributed to stakers of $SOLFUN, Mage NFTs, and $INFO. Stakers can claim their share of fees in SOL periodically.
 

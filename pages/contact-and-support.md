@@ -2,13 +2,12 @@
 
 ## Official Social Media Channels for SOLFUN
 
-* [**Linktree**](https://linktr.ee/fomo3d): Official links for SOLFUN
-* [**Telegram**](https://t.me/fomo3dGobbler): Official SOLFUN Telegram channel
+* [**Linktree**](https://linktr.ee/solana.fun): Official links for SOLFUN
+* [**Telegram**](http://t.me/solanadotfun): Official SOLFUN Telegram channel
 * [**X**](https://x.com/solanaDOTfun): Follow for updates and announcements
 
-## Unofficial Channels for SOLFUN
+## Unofficial Channels for SOLFUN (not maintained by SOLFUN team)
 
-* [**GobblerPools**](https://t.me/GobblerPools): Discussion about Gobbler Pools
 * [**Solana.Fun Launchpad Room**](https://t.me/Fomo3dShills): TG Chat for project token launches
 
 ## Support Channels
@@ -17,17 +16,11 @@
 
 ### How to Submit a Support Ticket:
 
-Please include in ONE message a / multiple screenshots of your issue (if you can include console log this helps) 
+Visit the support channel and submit your issue.
 
-Give a small description of the issue and 
+Please include in ONE message a small description of the issue / multiple screenshots of your issue (if you can include console log this helps)
 
-There are twocategories we will focus on. 
-
-1. Token launch / buy / sell issues. 
-
-2. Hyper link / information discrepancies / typing or copy errors etc. 
-
-Please be patient, we will log all of these and work on them as soon as we can! 
+Please be patient, we will log all of these and work on them as soon as we can!
 
 Thanks 🙏
 
@@ -39,7 +32,7 @@ Thanks 🙏
 
 ## Token Communities
 
-* [**SOLFUN Token**](https://t.me/fomo3dGobbler): Official SOLFUN Token community
+* [**SOLFUN Token**](http://t.me/solanadotfun): Official SOLFUN Token community
 * [**INFO Token**](https://t.me/Infothedog): Official INFO Token community
 * [**Mages NFT**](https://t.me/FomoMages): Official Mages NFT community
 
