@@ -10,10 +10,13 @@
 
 ## Fee Structure Explained
 
-- **Flat Fee**: A fixed fee per trade, which can be more beneficial for larger trades.
-- **Slippage and Price Impact**: Understand how these can affect your trade, especially in volatile markets or low-liquidity pools.
+* Built-in reward mechanism that incentivizes early long term liquidity providers
+
+* Flat fee structure that charge a constant fee in base or quite token per trade.
+
+* Protocol fees that are claimed through $SOLFUN to incentivize users to benefit further by staking the token.
 
 ## Tips for Trading
 
 - **Monitor Market Conditions**: Liquidity and price can affect your trade outcomes.
-- **Use Limit Orders**: If available, to set the price you're willing to trade at.
+- **Aggregator Friendly**: Once available through aggregators like JUP, you can set a specific price at which you're willing to trade by using limit orders, helping to protect against unfavorable market fluctuations.

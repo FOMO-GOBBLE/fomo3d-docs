@@ -52,15 +52,9 @@ Welcome to the official documentation for Solana.fun, a pioneering platform on t
 
 ## Overview
 
-Solana.fun combines the functionalities of the Fomo launchpad for new token launches with the Snapper DEX for trading.
+Solana.fun is a dynamic platform that uniquely combines a cutting-edge memecoin launchpad with an innovative decentralized exchange. Designed for the rapidly evolving Solana ecosystem, it rewards early adopters and long-term depositors by **redistributing 95% of trading revenue back to the community**.
 
-Snapper tackles the problem of capital efficiency especially in memecoin trading through a built-in reward system. It also empowers new trading dynamics by implementing a distinct fee structure.
-
-* Unique design that rewards liquidity providers of earliest in period, highest in amount and longest in duration of characteristic pool capital.
-
-* Executing trades through a constant fee per swap that gives better trade performance and attracts higher volume.
-
-This combination will enable a new dynamics in the market which Snapper is uniquely positioned to facilitate due to the nature of the company and the community supporting it.
+Whether you're launching the next big memecoin or trading with minimal fees, SOLFUN empowers you to participate in a system where the success of the platform benefits every user.
 
 ### Quick Links
 
