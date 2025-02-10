@@ -4,7 +4,7 @@ icon: hand-wave
 
 # Introduction
 
-Welcome to the official documentation for SOLFUN, a pioneering platform on the Solana blockchain that integrates a memecoin launchpad with a Decentralized Exchange (DEX) called Snapper. Here, you'll find all the information you need to interact with SOLFUN.
+Welcome to the official documentation for Solana.fun, a pioneering platform on the Solana blockchain that integrates a memecoin launchpad with a Decentralized Exchange (DEX) called Snapper. Here, you'll find all the information you need to interact with the Solana.fun ecosystem.
 
 <style>
   .flex-container {
@@ -52,11 +52,15 @@ Welcome to the official documentation for SOLFUN, a pioneering platform on the S
 
 ## Overview
 
-SOLFUN combines the functionalities of the Fomo launchpad for new token launches with the Snapper DEX for trading. Here are the latest updates:
+Solana.fun combines the functionalities of the Fomo launchpad for new token launches with the Snapper DEX for trading.
 
-* **Token Migration:** The $FOMO3D token has been reminted to $SOLFUN, with the migration process now live. The migration period ends on Wednesday, February 5, 2025, at 23:59 EST.
-* **Security Enhancements:** The SOLFUN Snapper DEX has been audited by AuditaSecurity for enhanced security measures.
-* **Technical Improvements:** Enhancements to the user interface for better usability and new trading functionalities in SOLFUN Snapper DEX.
+Snapper tackles the problem of capital efficiency especially in memecoin trading through a built-in reward system. It also empowers new trading dynamics by implementing a distinct fee structure.
+
+* Unique design that rewards liquidity providers of earliest in period, highest in amount and longest in duration of characteristic pool capital.
+
+* Executing trades through a constant fee per swap that gives better trade performance and attracts higher volume.
+
+This combination will enable a new dynamics in the market which Snapper is uniquely positioned to facilitate due to the nature of the company and the community supporting it.
 
 ### Quick Links
 
