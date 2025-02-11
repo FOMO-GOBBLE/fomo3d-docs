@@ -3,7 +3,7 @@
 ## Official Social Media Channels for SOLFUN
 
 * [**Linktree**](https://linktr.ee/solana.fun): Official links for SOLFUN
-* [**Telegram**](http://t.me/solanadotfun): Official SOLFUN Telegram channel
+* [**Telegram**](https://t.me/solanadotfun): Official SOLFUN Telegram channel
 * [**X**](https://x.com/solanaDOTfun): Follow for updates and announcements
 
 ## Unofficial Channels for SOLFUN (not maintained by SOLFUN team)
@@ -32,7 +32,7 @@ Thanks 🙏
 
 ## Token Communities
 
-* [**SOLFUN Token**](http://t.me/solanadotfun): Official SOLFUN Token community
+* [**SOLFUN Token**](https://t.me/solanadotfun): Official SOLFUN Token community
 * [**INFO Token**](https://t.me/Infothedog): Official INFO Token community
 * [**Mages NFT**](https://t.me/FomoMages): Official Mages NFT community
 

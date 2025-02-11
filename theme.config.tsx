@@ -18,7 +18,7 @@ const config: DocsThemeConfig = {
     extraContent: (
       <>
         <a 
-          href="http://t.me/solanadotfun" 
+          href="https://t.me/solanadotfun" 
           target="_blank" 
           rel="noopener noreferrer"
           style={{ 
