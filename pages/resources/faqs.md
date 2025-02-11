@@ -33,6 +33,18 @@ Solana.fun redistributes 95% of fees to stakers across three assets:
 
   The staking contract will be available soon. For now, simply hold your $SOLFUN, Mage NFTs, or $INFO. More information will be provided shortly.
 
+## Revenue Share
+
+* **How does fee claiming work in the Solana.fun ecosystem?**
+
+Solana.fun redistributes 95% of fees to stakers across three assets:
+
+  * $SOLFUN token (69% of fees): The primary ecosystem token.
+  * $MAGE NFTs (25% of fees): The official Solana.fun NFT collection.
+  * $INFO token (1% of fees): The official dog of the Solana.fun!
+
+  The remaining 5% is used for team operations, marketing, and CEX listings. Fees are proportionally redistributed to stakers of $SOLFUN, Mage NFTs, and $INFO. Stakers can claim their share of fees in SOL periodically.
+
 ## Usage
 
 * **How do I connect my wallet?**
