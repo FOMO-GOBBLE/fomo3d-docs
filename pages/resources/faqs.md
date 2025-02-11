@@ -19,7 +19,7 @@
 
 * **How does fee claiming work in the Solana.fun ecosystem?**
 
-Solana.fun redistributes 95% of fees to stakers across three assets:
+Solana.fun redistributes 95% of launchpad fees to stakers across three assets:
 
   * $SOLFUN token (69% of fees): The primary ecosystem token.
   * $MAGE NFTs (25% of fees): The official Solana.fun NFT collection.
@@ -71,13 +71,13 @@ Snapper provides a more familiar model for professional liquidity providers (LPs
 
 Both DEXs offer low fees and a chance to earn fees on any token pair. Earlier LPs benefit from larger fee shares and potential token value appreciation.
 
-* **What is the fee model for Gobbler and Snapper?**
+* **What is the fee model for Snapper?**
 
-Snapper operates with a novel constant fee model:
+Snapper operates with a novel constant fee model with the fee redistributed to the following:
 
-  * 50% of fees go to liquidity providers (LPs).
-  * 47.75% goes to stakers.
-  * 2.25% goes to the team.
+  * 90% goes to liquidity providers (LPs).
+  * 9.5% to the stakers.
+  * 0.5% to the team.
 
 There are no fees for creating pools or providing liquidity.
 
