@@ -71,7 +71,7 @@ Whether you're launching the next big memecoin or trading with minimal fees, SOL
 Join & follow the SOLFUN community!
 
 * [Twitter](https://x.com/solanaDOTfun)
-* [Telegram](http://t.me/solanadotfun)
+* [Telegram](https://t.me/solanadotfun)
 
 Official Website:
 * [Solana.Fun](https://solana.fun)
